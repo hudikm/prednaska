@@ -1,0 +1,8 @@
+@startuml
+concise "Main Thread" as WU
+scale 100 as 50 pixels
+
+@WU
+0 is "UI rederovanie"
++500 is ok
+@enduml

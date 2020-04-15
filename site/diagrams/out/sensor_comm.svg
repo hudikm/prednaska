@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="432px" preserveAspectRatio="none" style="width:419px;height:432px;" version="1.1" viewBox="0 0 419 432" width="419px" zoomAndPan="magnify"><defs/><g><rect fill="#66BCF0" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="41.5" y="113.9063"/><rect fill="#66BCF0" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="41.5" y="198.8438"/><rect fill="#FF0000" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="41.5" y="283.7813"/><line style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="46" x2="46" y1="39.9688" y2="386.7188"/><line style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="347" x2="347" y1="39.9688" y2="386.7188"/><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="77" x="8" y="3"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="55" x="19" y="25.1387">Aplikácia</text><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="77" x="8" y="385.7188"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="55" x="19" y="407.8574">Aplikácia</text><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="121" x="287" y="3"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="99" x="298" y="25.1387">SensorManager</text><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="121" x="287" y="385.7188"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="99" x="298" y="407.8574">SensorManager</text><rect fill="#66BCF0" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="41.5" y="113.9063"/><rect fill="#66BCF0" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="41.5" y="198.8438"/><rect fill="#FF0000" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="41.5" y="283.7813"/><polygon fill="#444444" points="335.5,73.9375,345.5,77.9375,335.5,81.9375,339.5,77.9375" style="stroke: #444444; stroke-width: 1.0;"/><line style="stroke: #444444; stroke-width: 3.0;" x1="46.5" x2="341.5" y1="77.9375" y2="77.9375"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="229" x="57.5" y="69.1074">zaregistrovanie odberu udalostí</text><polygon fill="#444444" points="62.5,109.9063,52.5,113.9063,62.5,117.9063,58.5,113.9063" style="stroke: #444444; stroke-width: 1.0;"/><line style="stroke: #444444; stroke-width: 3.0;" x1="56.5" x2="346.5" y1="113.9063" y2="113.9063"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="200" x="72.5" y="105.0762">SensorEvent - nová hodnota</text><line style="stroke: #444444; stroke-width: 3.0;" x1="51.5" x2="93.5" y1="154.875" y2="154.875"/><line style="stroke: #444444; stroke-width: 3.0;" x1="93.5" x2="93.5" y1="154.875" y2="167.875"/><line style="stroke: #444444; stroke-width: 3.0;" x1="46.5" x2="93.5" y1="167.875" y2="167.875"/><polygon fill="#444444" points="56.5,163.875,46.5,167.875,56.5,171.875,52.5,167.875" style="stroke: #444444; stroke-width: 1.0;"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="62.5" y="146.0449">onSensorChanged()</text><polygon fill="#444444" points="62.5,194.8438,52.5,198.8438,62.5,202.8438,58.5,198.8438" style="stroke: #444444; stroke-width: 1.0;"/><line style="stroke: #444444; stroke-width: 3.0;" x1="56.5" x2="346.5" y1="198.8438" y2="198.8438"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="200" x="72.5" y="190.0137">SensorEvent - nová hodnota</text><line style="stroke: #444444; stroke-width: 3.0;" x1="51.5" x2="93.5" y1="239.8125" y2="239.8125"/><line style="stroke: #444444; stroke-width: 3.0;" x1="93.5" x2="93.5" y1="239.8125" y2="252.8125"/><line style="stroke: #444444; stroke-width: 3.0;" x1="46.5" x2="93.5" y1="252.8125" y2="252.8125"/><polygon fill="#444444" points="56.5,248.8125,46.5,252.8125,56.5,256.8125,52.5,252.8125" style="stroke: #444444; stroke-width: 1.0;"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="62.5" y="230.9824">onSensorChanged()</text><polygon fill="#444444" points="62.5,279.7813,52.5,283.7813,62.5,287.7813,58.5,283.7813" style="stroke: #444444; stroke-width: 1.0;"/><line style="stroke: #444444; stroke-width: 3.0;" x1="56.5" x2="346.5" y1="283.7813" y2="283.7813"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="221" x="72.5" y="274.9512">SensorEvent - zmena presnosti</text><line style="stroke: #444444; stroke-width: 3.0;" x1="51.5" x2="93.5" y1="324.75" y2="324.75"/><line style="stroke: #444444; stroke-width: 3.0;" x1="93.5" x2="93.5" y1="324.75" y2="337.75"/><line style="stroke: #444444; stroke-width: 3.0;" x1="46.5" x2="93.5" y1="337.75" y2="337.75"/><polygon fill="#444444" points="56.5,333.75,46.5,337.75,56.5,341.75,52.5,337.75" style="stroke: #444444; stroke-width: 1.0;"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="153" x="62.5" y="315.9199">onAccuracyChanged()</text><polygon fill="#444444" points="335.5,364.7188,345.5,368.7188,335.5,372.7188,339.5,368.7188" style="stroke: #444444; stroke-width: 1.0;"/><line style="stroke: #444444; stroke-width: 3.0;" x1="46.5" x2="341.5" y1="368.7188" y2="368.7188"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="269" x="57.5" y="359.8887">zrušenie regisrácie na príjem udalostí</text><!--MD5=[e85f67a106beec3cede1f1173db484cb]
+@startuml
+
+
+
+skinparam Padding 4
+skinparam RoundCorner 4
+skinparam Shadowing false
+
+skinparam Default {
+  FontColor #444444
+  FontSize 12
+}
+
+skinparam Arrow {
+  Color #444444
+  FontColor #444444
+  FontStyle Bold
+}
+
+skinparam activityDiamond {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+
+skinparam activity {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+
+skinparam package {
+  FontColor #444444
+  BackgroundColor #66BCF0
+  BorderColor #444444
+}
+skinparam node {
+  FontColor #444444
+  BackgroundColor #eeb291
+  BorderColor #444444
+}
+skinparam component {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+  Style uml2
+}
+
+skinparam database {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+
+skinparam cloud {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+
+skinparam collections {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam Control {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam Boundary {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam Entity {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam interface {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam SequenceParticipantBorderThickness 3
+skinparam sequence {
+  ParticipantBackgroundColor #66BCF0
+  ParticipantBorderColor #444444
+  ParticipantFontStyle normal
+  ParticipantFontColor #444444
+  LifeLineBorderColor #444444
+  LifeLineBackgroundColor #66BCF0
+  ArrowColor #444444
+  ArrowBorderColor #444444
+  ArrowFontColor #444444
+  ArrowThickness 3
+  ActorBackgroundColor #66BCF0
+  ActorBorderColor #444444
+  ActorFontColor #444444
+}
+
+
+skinparam rectangle<<person>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam rectangle<<external_person>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #B4BCBE
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam rectangle<<system>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam rectangle<<external_system>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #B4BCBE
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam database<<system>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam database<<external_system>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #B4BCBE
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam rectangle<<boundary>> {
+  Shadowing false
+  StereotypeFontSize 0
+  BackgroundColor #eeb291
+  StereotypeFontColor #444444
+  FontColor #444444
+  BorderColor #444444
+  BorderStyle dashed
+  BorderThickness 3
+}
+skinparam rectangle<<container>> {
+  Shadowing false
+  StereotypeFontSize 14
+  BackgroundColor #66BCF0
+  StereotypeFontColor #444444
+  FontColor #444444
+  BorderColor #444444
+  BorderThickness 3
+}
+    
+    participant "Aplikácia" as APP
+    participant "SensorManager" as MAN
+
+    APP->MAN: zaregistrovanie odberu udalostí
+    MAN->APP++: SensorEvent - nová hodnota
+    APP->APP- -: onSensorChanged()
+    
+    MAN->APP++: SensorEvent - nová hodnota
+    APP->APP- -: onSensorChanged() 
+
+    MAN->APP++ #RED: SensorEvent - zmena presnosti
+    APP->APP- -: onAccuracyChanged()
+    
+    APP->MAN: zrušenie regisrácie na príjem udalostí
+@enduml
+
+PlantUML version 1.2020.07beta9(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_25-b15
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,29 @@
+@startuml threads
+!include ../include/themes/light.puml 
+    ' hide footbox
+    box "Udalosti" #DarkSalmon
+    participant "Úžívateľské vstupy" as uEvents
+    participant "Systémové vstupy" as sysEvents
+    end box
+    database "Zásobník udalostí" as stack
+    box "Proces aplikácie" #LightGreen
+    participant "            Hlavné vlákno           " as UI
+    end box
+
+    sysEvents -[#SteelBlue]> stack : Štart aplikacie
+    activate stack
+    stack -[#SteelBlue]> UI
+    activate UI 
+    deactivate stack
+    UI -> UI : onStart()
+    sysEvents -[#SteelBlue]> stack ++  : Intent
+    UI -> UI : onResume()
+    uEvents -[#Red]> stack  : Stlačenie tlačítka
+    UI -> UI -- : onCreate()
+    stack -[#SteelBlue]> UI 
+    activate UI
+    UI -> UI -- :  onReceive()
+    stack -[#Red]> UI --
+    activate UI
+    UI -> UI -- :  onClick()
+@enduml

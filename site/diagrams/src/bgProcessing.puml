@@ -1,0 +1,36 @@
+@startuml
+!include ../include/themes/light.puml 
+
+start
+if (==Dlho trvajúce štahovanie cez HTTP?) then (= Áno)
+    -[#blue]->
+    :==DownloadManager;
+    stop
+else (= Nie)
+    -[#red]->
+    if (==Môže sa práca odložiť?) then (= Nie)
+        -[#red]->
+        :==Foreground service;
+        stop
+    else (= Áno)
+        -[#blue]->
+        if (==Je práca závislá od systémových podmienok?) then (= Áno)
+            -[#blue]->
+            :==WorkManager;
+            stop
+        else (= Nie)
+            -[#red]->
+            if (==Spustiť v presne definovanom čase?) then (= Áno)
+                -[#blue]->
+                :==AlarmManager;
+                stop
+            else (= Nie)
+            -[#red]->
+            :==WorkManager;
+            stop
+            endif
+        endif
+    endif
+endif
+
+@enduml

@@ -1,0 +1,19 @@
+@startuml sensor_comm
+!include ../include/themes/light.puml 
+    
+    participant "Aplikácia" as APP
+    participant "SensorManager" as MAN
+
+    APP->MAN: zaregistrovanie odberu udalostí
+    MAN->APP++: SensorEvent - nová hodnota
+    APP->APP--: onSensorChanged()
+    
+    MAN->APP++: SensorEvent - nová hodnota
+    APP->APP--: onSensorChanged() 
+
+    MAN->APP++ #RED: SensorEvent - zmena presnosti
+    APP->APP--: onAccuracyChanged()
+    
+    APP->MAN: zrušenie regisrácie na príjem udalostí
+    
+@enduml

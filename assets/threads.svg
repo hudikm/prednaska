@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="597px" preserveAspectRatio="none" style="width:649px;height:597px;" version="1.1" viewBox="0 0 649 597" width="649px" zoomAndPan="magnify"><defs/><g><rect fill="#E9967A" height="582.6875" rx="2" ry="2" style="stroke: #A80036; stroke-width: 1.0;" width="288" x="4" y="4"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="118.5" y="19.1387">Udalosti</text><rect fill="#90EE90" height="582.6875" rx="2" ry="2" style="stroke: #A80036; stroke-width: 1.0;" width="208" x="430" y="4"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="115" x="476.5" y="19.1387">Proces aplikácie</text><rect fill="#66BCF0" height="44" style="stroke: #444444; stroke-width: 1.0;" width="10" x="356" y="108.9375"/><rect fill="#66BCF0" height="210.875" style="stroke: #444444; stroke-width: 1.0;" width="10" x="356" y="237.875"/><rect fill="#66BCF0" height="241.8438" style="stroke: #444444; stroke-width: 1.0;" width="10" x="529" y="122.9375"/><rect fill="#66BCF0" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="529" y="385.7813"/><rect fill="#66BCF0" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="529" y="448.75"/><line style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="76" x2="76" y1="70.9688" y2="515.7188"/><line style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="221" x2="221" y1="70.9688" y2="515.7188"/><line style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="361" x2="361" y1="70.9688" y2="515.7188"/><line style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="534" x2="534" y1="70.9688" y2="515.7188"/><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="137" x="8" y="34"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="115" x="19" y="56.1387">Úžívateľské vstupy</text><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="137" x="8" y="514.7188"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="115" x="19" y="536.8574">Úžívateľské vstupy</text><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="133" x="155" y="34"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="111" x="166" y="56.1387">Systémové vstupy</text><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="133" x="155" y="514.7188"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="111" x="166" y="536.8574">Systémové vstupy</text><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="112" x="302" y="64.1387">Zásobník udalostí</text><path d="M343,13 C343,3 361,3 361,3 C361,3 379,3 379,13 L379,39 C379,49 361,49 361,49 C361,49 343,49 343,39 L343,13 " fill="#66BCF0" style="stroke: #444444; stroke-width: 1.5;"/><path d="M343,13 C343,23 361,23 361,23 C361,23 379,23 379,13 " fill="none" style="stroke: #444444; stroke-width: 1.5;"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="112" x="302" y="529.8574">Zásobník udalostí</text><path d="M343,546.6875 C343,536.6875 361,536.6875 361,536.6875 C361,536.6875 379,536.6875 379,546.6875 L379,572.6875 C379,582.6875 361,582.6875 361,582.6875 C361,582.6875 343,582.6875 343,572.6875 L343,546.6875 " fill="#66BCF0" style="stroke: #444444; stroke-width: 1.5;"/><path d="M343,546.6875 C343,556.6875 361,556.6875 361,556.6875 C361,556.6875 379,556.6875 379,546.6875 " fill="none" style="stroke: #444444; stroke-width: 1.5;"/><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="200" x="434" y="34"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="86" x="493" y="56.1387">Hlavné vlákno</text><rect fill="#66BCF0" height="35.9688" rx="2" ry="2" style="stroke: #444444; stroke-width: 3.0;" width="200" x="434" y="514.7188"/><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="86" x="493" y="536.8574">Hlavné vlákno</text><rect fill="#66BCF0" height="44" style="stroke: #444444; stroke-width: 1.0;" width="10" x="356" y="108.9375"/><rect fill="#66BCF0" height="210.875" style="stroke: #444444; stroke-width: 1.0;" width="10" x="356" y="237.875"/><rect fill="#66BCF0" height="241.8438" style="stroke: #444444; stroke-width: 1.0;" width="10" x="529" y="122.9375"/><rect fill="#66BCF0" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="529" y="385.7813"/><rect fill="#66BCF0" height="41.9688" style="stroke: #444444; stroke-width: 1.0;" width="10" x="529" y="448.75"/><polygon fill="#4682B4" points="344,104.9375,354,108.9375,344,112.9375,348,108.9375" style="stroke: #4682B4; stroke-width: 1.0;"/><line style="stroke: #4682B4; stroke-width: 3.0;" x1="221.5" x2="350" y1="108.9375" y2="108.9375"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="103" x="232.5" y="100.1074">Štart aplikacie</text><polygon fill="#4682B4" points="517,118.9375,527,122.9375,517,126.9375,521,122.9375" style="stroke: #4682B4; stroke-width: 1.0;"/><line style="stroke: #4682B4; stroke-width: 3.0;" x1="366" x2="523" y1="122.9375" y2="122.9375"/><line style="stroke: #444444; stroke-width: 3.0;" x1="539" x2="581" y1="188.9063" y2="188.9063"/><line style="stroke: #444444; stroke-width: 3.0;" x1="581" x2="581" y1="188.9063" y2="201.9063"/><line style="stroke: #444444; stroke-width: 3.0;" x1="540" x2="581" y1="201.9063" y2="201.9063"/><polygon fill="#444444" points="550,197.9063,540,201.9063,550,205.9063,546,201.9063" style="stroke: #444444; stroke-width: 1.0;"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="64" x="550" y="180.0762">onStart()</text><polygon fill="#4682B4" points="344,233.875,354,237.875,344,241.875,348,237.875" style="stroke: #4682B4; stroke-width: 1.0;"/><line style="stroke: #4682B4; stroke-width: 3.0;" x1="221.5" x2="350" y1="237.875" y2="237.875"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="43" x="232.5" y="229.0449">Intent</text><line style="stroke: #444444; stroke-width: 3.0;" x1="539" x2="581" y1="273.8438" y2="273.8438"/><line style="stroke: #444444; stroke-width: 3.0;" x1="581" x2="581" y1="273.8438" y2="286.8438"/><line style="stroke: #444444; stroke-width: 3.0;" x1="540" x2="581" y1="286.8438" y2="286.8438"/><polygon fill="#444444" points="550,282.8438,540,286.8438,550,290.8438,546,286.8438" style="stroke: #444444; stroke-width: 1.0;"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="84" x="550" y="265.0137">onResume()</text><polygon fill="#FF0000" points="344,318.8125,354,322.8125,344,326.8125,348,322.8125" style="stroke: #FF0000; stroke-width: 1.0;"/><line style="stroke: #FF0000; stroke-width: 3.0;" x1="76.5" x2="350" y1="322.8125" y2="322.8125"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="123" x="87.5" y="313.9824">Stlačenie tlačítka</text><line style="stroke: #444444; stroke-width: 3.0;" x1="539" x2="581" y1="363.7813" y2="363.7813"/><line style="stroke: #444444; stroke-width: 3.0;" x1="581" x2="581" y1="363.7813" y2="376.7813"/><line style="stroke: #444444; stroke-width: 3.0;" x1="534" x2="581" y1="376.7813" y2="376.7813"/><polygon fill="#444444" points="544,372.7813,534,376.7813,544,380.7813,540,376.7813" style="stroke: #444444; stroke-width: 1.0;"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="76" x="550" y="354.9512">onCreate()</text><polygon fill="#4682B4" points="517,381.7813,527,385.7813,517,389.7813,521,385.7813" style="stroke: #4682B4; stroke-width: 1.0;"/><line style="stroke: #4682B4; stroke-width: 3.0;" x1="366" x2="523" y1="385.7813" y2="385.7813"/><line style="stroke: #444444; stroke-width: 3.0;" x1="539" x2="581" y1="426.75" y2="426.75"/><line style="stroke: #444444; stroke-width: 3.0;" x1="581" x2="581" y1="426.75" y2="439.75"/><line style="stroke: #444444; stroke-width: 3.0;" x1="534" x2="581" y1="439.75" y2="439.75"/><polygon fill="#444444" points="544,435.75,534,439.75,544,443.75,540,439.75" style="stroke: #444444; stroke-width: 1.0;"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="82" x="550" y="417.9199">onReceive()</text><polygon fill="#FF0000" points="517,444.75,527,448.75,517,452.75,521,448.75" style="stroke: #FF0000; stroke-width: 1.0;"/><line style="stroke: #FF0000; stroke-width: 3.0;" x1="361" x2="523" y1="448.75" y2="448.75"/><line style="stroke: #444444; stroke-width: 3.0;" x1="539" x2="581" y1="489.7188" y2="489.7188"/><line style="stroke: #444444; stroke-width: 3.0;" x1="581" x2="581" y1="489.7188" y2="502.7188"/><line style="stroke: #444444; stroke-width: 3.0;" x1="534" x2="581" y1="502.7188" y2="502.7188"/><polygon fill="#444444" points="544,498.7188,534,502.7188,544,506.7188,540,502.7188" style="stroke: #444444; stroke-width: 1.0;"/><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="550" y="480.8887">onClick()</text><!--MD5=[32262123f7636cd55dd926a7b590719b]
+@startuml
+
+
+
+skinparam Padding 4
+skinparam RoundCorner 4
+skinparam Shadowing false
+
+skinparam Default {
+  FontColor #444444
+  FontSize 12
+}
+
+skinparam Arrow {
+  Color #444444
+  FontColor #444444
+  FontStyle Bold
+}
+
+skinparam package {
+  FontColor #444444
+  BackgroundColor #66BCF0
+  BorderColor #444444
+}
+skinparam node {
+  FontColor #444444
+  BackgroundColor #eeb291
+  BorderColor #444444
+}
+skinparam component {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+  Style uml2
+}
+
+skinparam database {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+
+skinparam cloud {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+
+skinparam collections {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam Control {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam Boundary {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam Entity {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam interface {
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  FontColor #444444
+}
+skinparam SequenceParticipantBorderThickness 3
+skinparam sequence {
+  ParticipantBackgroundColor #66BCF0
+  ParticipantBorderColor #444444
+  ParticipantFontStyle normal
+  ParticipantFontColor #444444
+  LifeLineBorderColor #444444
+  LifeLineBackgroundColor #66BCF0
+  ArrowColor #444444
+  ArrowBorderColor #444444
+  ArrowFontColor #444444
+  ArrowThickness 3
+  ActorBackgroundColor #66BCF0
+  ActorBorderColor #444444
+  ActorFontColor #444444
+}
+
+
+skinparam rectangle<<person>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam rectangle<<external_person>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #B4BCBE
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam rectangle<<system>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam rectangle<<external_system>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #B4BCBE
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam database<<system>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #66BCF0
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam database<<external_system>> {
+  StereotypeFontColor #444444
+  FontColor #444444
+  BackgroundColor #B4BCBE
+  BorderColor #444444
+  BorderThickness 3
+}
+
+skinparam rectangle<<boundary>> {
+  Shadowing false
+  StereotypeFontSize 0
+  BackgroundColor #eeb291
+  StereotypeFontColor #444444
+  FontColor #444444
+  BorderColor #444444
+  BorderStyle dashed
+  BorderThickness 3
+}
+skinparam rectangle<<container>> {
+  Shadowing false
+  StereotypeFontSize 14
+  BackgroundColor #66BCF0
+  StereotypeFontColor #444444
+  FontColor #444444
+  BorderColor #444444
+  BorderThickness 3
+}
+    box "Udalosti" #DarkSalmon
+    participant "Úžívateľské vstupy" as uEvents
+    participant "Systémové vstupy" as sysEvents
+    end box
+    database "Zásobník udalostí" as stack
+    box "Proces aplikácie" #LightGreen
+    participant "            Hlavné vlákno           " as UI
+    end box
+
+    sysEvents -[#SteelBlue]> stack : Štart aplikacie
+    activate stack
+    stack -[#SteelBlue]> UI
+    activate UI 
+    deactivate stack
+    UI -> UI : onStart()
+    sysEvents -[#SteelBlue]> stack ++  : Intent
+    UI -> UI : onResume()
+    uEvents -[#Red]> stack  : Stlačenie tlačítka
+    UI -> UI - - : onCreate()
+    stack -[#SteelBlue]> UI 
+    activate UI
+    UI -> UI - - :  onReceive()
+    stack -[#Red]> UI - -
+    activate UI
+    UI -> UI - - :  onClick()
+@enduml
+
+PlantUML version 1.2020.03beta11(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_25-b15
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

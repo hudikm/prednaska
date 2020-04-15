@@ -1,0 +1,25 @@
+@startuml asynctasl
+!pragma teoz true
+!include ../include/themes/light.puml 
+participant "Hlavné vlákno" as UI
+create "AsyncTask" as AT
+UI -> AT : new
+-> UI ++ : execute()
+UI->UI: onPreExecute()
+note left: Prípravné práce\nna UI vlákne
+UI->AT
+deactivate UI
+activate AT
+note right of AT #LightSteelBlue
+<b>doInBackground()</b>
+end note
+group priebežné informovanie uživateľa\no prebehu úlohy na pozadí  
+AT -> UI++ :publishProgress()
+UI -> UI-- :aktualizácia UI 
+end
+AT -> UI 
+deactivate AT    
+activate UI
+UI -> UI --: onPostExecute()
+note left: Záverečné práce,\nupratanie po ukončený\npráce na pozadí 
+@enduml
