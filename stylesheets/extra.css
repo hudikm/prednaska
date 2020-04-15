@@ -27,7 +27,6 @@ img[src*="#75size"] {
 }
 @media print{
    .md-typeset a {
-      -webkit-print-color-adjust: exact;
        color: rgb(45, 101, 255) !important;
    }
    }
